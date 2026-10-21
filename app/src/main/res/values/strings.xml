@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">ListViewsAndAdapters</string>
+    <string name="mentum_logo">Mentum Logo</string>
+    <string-array name="options">
+        <item>Cursos</item>
+        <item>Perfil</item>
+        <item>Evaluaciones</item>
+        <item>Notas</item>
+    </string-array>
+
+    <!-- SQLite -->
+    <string name="db_no_disponible">Base de datos no disponible</string>
+
+    <!-- Formulario de notas -->
+    <string name="titulo_form_nota">Nueva nota</string>
+    <string name="label_titulo">Título</string>
+    <string name="label_anotaciones">Anotaciones</string>
+    <string name="hint_titulo">Ej. Apuntes de mecánica</string>
+    <string name="hint_anotaciones">Escriba sus anotaciones aquí…</string>
+    <string name="btn_agregar_nota">Agregar nota</string>
+    <string name="btn_guardar_nota">Guardar nota</string>
+    <string name="btn_ver_notas">Ver notas guardadas</string>
+    <string name="btn_guardar_cambios">Guardar cambios</string>
+    <string name="error_titulo">El título es obligatorio</string>
+    <string name="nota_guardada">Nota #%1$d guardada en SQLite</string>
+    <string name="nota_actualizada">Nota actualizada</string>
+    <string name="nota_no_guardada">No se pudo guardar la nota</string>
+</resources>
